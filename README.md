@@ -125,9 +125,9 @@ If Gaza-specific liver disease data becomes accessible, this pipeline can be dir
 ## 📁 Repository Structure
 
 ```
-├── Project.ipynb                     # Full ML pipeline notebook
-├── مشروع_الإدراك_نضري.docx          # Theoretical report (Arabic)
-└── README.md                         # This file
+├── liver-disease-prediction-gaza.ipynb                    
+├── hepatic disease.csv      
+└── README_LiverDisease.md                         # 
 ```
 
 ---
